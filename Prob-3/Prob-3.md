@@ -1,4 +1,4 @@
-#  Module 1 - Programming Assignment 2 - Problem 3
+#  Module 2 - Programming Assignment 2 - Problem 3
 
 **Goal:** 
 - Demonstrate simultaneous assignment

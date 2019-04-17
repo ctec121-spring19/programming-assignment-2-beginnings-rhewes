@@ -1,4 +1,4 @@
-#  Module 1 - Programming Assignment 2 - Problem 2
+#  Module 2 - Programming Assignment 2 - Problem 2
 
 **Goal:** 
 - Use the input() and int() functions to get a number from the user

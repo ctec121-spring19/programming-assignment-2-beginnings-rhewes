@@ -1,4 +1,4 @@
-#  Module 1 - Programming Assignment 2 - Problem 1
+#  Module 2 - Programming Assignment 2 - Problem 1
 
 **Goal:** 
 - Create your own self-descriptive variable names
